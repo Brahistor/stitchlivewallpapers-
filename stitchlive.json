@@ -1,258 +1,258 @@
 {
-  "general": {
-    "remote_config_version": 1,
-    "app_name": "4K wallpapers of Stitch Ohana",
-    "theme_color": "#F518A9",
-    "kids": {
-      "enabled": false,
-      "config_url": ""
-    },
-    "buttons": {
-      "rate_url": "https://www.amazon.com/dp/B0GR82D2VT/ref=sr_1_15?dib=eyJ2IjoiMSJ9.3RxQKSXwKxvYEZObIt_jPArR1W-LLEFDTUsIkm7vIQ5mrf0BGXDliWOC-IiYGMOrRtScQXFI8x2i89sFe39Q1GlLzkxXz76Bq0l5hLuoI8Gp4dXEjI6ubdiMDlGLgSBtOe3IGDOpwZU4FfSNLX0aQ5eLD9PLidm9D8hiilo4HA-2B19EvKyZhCTjPIe2KbCU.RR79Bx5amZ4D6Kh1pQC0o6-sO-RXi2vdeTL2a3L8J8k&dib_tag=se&qid=1772761031&refinements=p_4%3Abestwallpapers&s=mobile-apps&search-type=ss&sr=1-15",
-      "share_text": "https://www.amazon.com/dp/B0GR82D2VT/ref=sr_1_15?dib=eyJ2IjoiMSJ9.3RxQKSXwKxvYEZObIt_jPArR1W-LLEFDTUsIkm7vIQ5mrf0BGXDliWOC-IiYGMOrRtScQXFI8x2i89sFe39Q1GlLzkxXz76Bq0l5hLuoI8Gp4dXEjI6ubdiMDlGLgSBtOe3IGDOpwZU4FfSNLX0aQ5eLD9PLidm9D8hiilo4HA-2B19EvKyZhCTjPIe2KbCU.RR79Bx5amZ4D6Kh1pQC0o6-sO-RXi2vdeTL2a3L8J8k&dib_tag=se&qid=1772761031&refinements=p_4%3Abestwallpapers&s=mobile-apps&search-type=ss&sr=1-15",
-      "more_apps_url": "https://www.amazon.com/s?i=mobile-apps&rh=p_4%3Abestwallpapers&search-type=ss",
-      "show_remove_ads_button": true,
-      "show_premium_button": true
-    },
-    "iap": {
-      "enabled": true,
-      "lifetimeSku": "com.Anime.livewallpapers.remove_ads",
-      "subscriptions": {
-        "enabled": true,
-        "skus": {
-          "1m": "com.Anime.livewallpapers.premium_111m",
-          "3m": "com.Anime.livewallpapers.premium_33m",
-          "6m": "com.Anime.livewallpapers.premium_66m",
-          "12m": "com.Anime.livewallpapers.premium_12m"
-        }
-      }
-    },
-    "ads": {
-      "showAds": true,
-      "clicksBeforeInterstitial": 3,
-      "autoShowIntervalSeconds": 0,
-      "banner": {
-        "enabled": false,
-        "size": "BANNER",
-        "position": "BOTTOM",
-        "autoLoad": false,
-        "disableOnTv": true
+   "general":{
+      "remote_config_version":1,
+      "app_name":"4K wallpapers of Stitch Ohana",
+      "theme_color":"#F518A9",
+      "kids":{
+         "enabled":false,
+         "config_url":""
       },
-      "levelplay": {
-        "enabled": true,
-        "appKey": "25898f09d",
-        "interstitialAdUnitId": "69bekc868i4qqj7w",
-        "rewardedAdUnitId": "slkvus5gn0aik4an",
-        "bannerAdUnitId": "fsnu8d83hapd9dh7",
-        "userId": ""
+      "buttons":{
+         "rate_url":"https://www.amazon.com/dp/B0GR82D2VT/ref=sr_1_15?dib=eyJ2IjoiMSJ9.3RxQKSXwKxvYEZObIt_jPArR1W-LLEFDTUsIkm7vIQ5mrf0BGXDliWOC-IiYGMOrRtScQXFI8x2i89sFe39Q1GlLzkxXz76Bq0l5hLuoI8Gp4dXEjI6ubdiMDlGLgSBtOe3IGDOpwZU4FfSNLX0aQ5eLD9PLidm9D8hiilo4HA-2B19EvKyZhCTjPIe2KbCU.RR79Bx5amZ4D6Kh1pQC0o6-sO-RXi2vdeTL2a3L8J8k&dib_tag=se&qid=1772761031&refinements=p_4%3Abestwallpapers&s=mobile-apps&search-type=ss&sr=1-15",
+         "share_text":"https://www.amazon.com/dp/B0GR82D2VT/ref=sr_1_15?dib=eyJ2IjoiMSJ9.3RxQKSXwKxvYEZObIt_jPArR1W-LLEFDTUsIkm7vIQ5mrf0BGXDliWOC-IiYGMOrRtScQXFI8x2i89sFe39Q1GlLzkxXz76Bq0l5hLuoI8Gp4dXEjI6ubdiMDlGLgSBtOe3IGDOpwZU4FfSNLX0aQ5eLD9PLidm9D8hiilo4HA-2B19EvKyZhCTjPIe2KbCU.RR79Bx5amZ4D6Kh1pQC0o6-sO-RXi2vdeTL2a3L8J8k&dib_tag=se&qid=1772761031&refinements=p_4%3Abestwallpapers&s=mobile-apps&search-type=ss&sr=1-15",
+         "more_apps_url":"https://www.amazon.com/s?i=mobile-apps&rh=p_4%3Abestwallpapers&search-type=ss",
+         "show_remove_ads_button":true,
+         "show_premium_button":true
       },
-      "mintegral": {
-        "enabled": false,
-        "testMode": false,
-        "appId": "",
-        "appKey": "",
-        "units": {
-          "banner": "",
-          "bannerUnit": "",
-          "interstitial": "",
-          "interstitialUnit": "",
-          "rewarded": "",
-          "rewardedUnit": ""
-        }
+      "iap":{
+         "enabled":true,
+         "lifetimeSku":"com.Anime.livewallpapers.remove_ads",
+         "subscriptions":{
+            "enabled":true,
+            "skus":{
+               "1m":"com.Anime.livewallpapers.premium_111m",
+               "3m":"com.Anime.livewallpapers.premium_33m",
+               "6m":"com.Anime.livewallpapers.premium_66m",
+               "12m":"com.Anime.livewallpapers.premium_12m"
+            }
+         }
+      },
+      "ads":{
+         "showAds":true,
+         "clicksBeforeInterstitial":3,
+         "autoShowIntervalSeconds":0,
+         "banner":{
+            "enabled":false,
+            "size":"BANNER",
+            "position":"BOTTOM",
+            "autoLoad":false,
+            "disableOnTv":true
+         },
+         "levelplay":{
+            "enabled":true,
+            "appKey":"25898f09d",
+            "interstitialAdUnitId":"69bekc868i4qqj7w",
+            "rewardedAdUnitId":"slkvus5gn0aik4an",
+            "bannerAdUnitId":"fsnu8d83hapd9dh7",
+            "userId":""
+         },
+         "mintegral":{
+            "enabled":false,
+            "testMode":false,
+            "appId":"",
+            "appKey":"",
+            "units":{
+               "banner":"",
+               "bannerUnit":"",
+               "interstitial":"",
+               "interstitialUnit":"",
+               "rewarded":"",
+               "rewardedUnit":""
+            }
+         }
       }
-    }
-  },
-  "groups": {
-    "tv": {
-      "theme_color": "#F518A1",
-      "ads": {
-        "banner": {
-          "enabled": false,
-          "autoLoad": false
-        },
-        "clicksBeforeInterstitial": 5,
-        "autoShowIntervalSeconds": 0
+   },
+   "groups":{
+      "tv":{
+         "theme_color":"#F518A1",
+         "ads":{
+            "banner":{
+               "enabled":false,
+               "autoLoad":false
+            },
+            "clicksBeforeInterstitial":5,
+            "autoShowIntervalSeconds":0
+         }
+      },
+      "tablet":{
+         "theme_color":"#F518A2",
+         "ads":{
+            "banner":{
+               "enabled":false,
+               "autoLoad":false
+            },
+            "clicksBeforeInterstitial":5,
+            "autoShowIntervalSeconds":0
+         }
+      },
+      "mobile":{
+         "theme_color":"#F518A1",
+         "ads":{
+            "clicksBeforeInterstitial":5,
+            "autoShowIntervalSeconds":0,
+            "banner":{
+               "enabled":false,
+               "autoLoad":false
+            }
+         }
       }
-    },
-    "tablet": {
-      "theme_color": "#F518A2",
-      "ads": {
-        "banner": {
-          "enabled": false,
-          "autoLoad": false
-        },
-        "clicksBeforeInterstitial": 5,
-        "autoShowIntervalSeconds": 0
+   },
+   "categories":[
+      {
+         "name":"Stitch",
+         "type":"video",
+         "videos":[
+            {
+               "id":"stitch_001",
+               "title":"Stitch Live 1",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/06/17/8siB7jsKiNLiKokGRoDQ23aH6jbnvrO1OCcpTmDp.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_002",
+               "title":"Stitch Live 2",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/06/29/m4j4AqXlZPXQBoCvPe3Rcrf44E2F5oNsNpbZQWeY.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_005",
+               "title":"Stitch Live 5",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/12/14/01KFD3STG7VDC1EB88Z4VA43WN.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_006",
+               "title":"Stitch Live 6",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/03/24/ulxLhBgP6LOuyl2XNnjVQmr3Ek6OP6TCHc4UeWL1.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_007",
+               "title":"Stitch Live 7",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/12/09/gG3jWFwcq5z7V8FowsqAIRf0obhlbl9CblbKq8oC.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_008",
+               "title":"Stitch Live 8",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/07/18/9uUm6yrfUqn9yjywkaMWXFa9168NyAl9e1G7wUpd.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_009",
+               "title":"Stitch Live 9",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/10/12/aB3lRiaOKrVVRPlJkTSGycG5QaH9VCYclradom3l.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_010",
+               "title":"Stitch Live 10",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/03/24/foqIxLl5j9guQzwSxrYxavQ8Lkz2ieK4foObeqdL.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_011",
+               "title":"Stitch Live 11",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/10/02/QAwTfZyQTPPOOAtd2V1eYOTs4NZBnI9UTXQDxBUI.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_012",
+               "title":"Stitch Live 12",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/10/02/Adm9sld6jNN5BdVElTkHnq4FQ3BHFG8l7EXqgasj.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_013",
+               "title":"Stitch Live 13",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/09/12/6duZ0c6vYxSXJ4tYDvqfHz79E3ia2BzVxnB8vfr4.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_014",
+               "title":"Stitch Live 14",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/10/14/01K7HKDJB03RCS6QNZ4292CXH0.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_015",
+               "title":"Stitch Live 15",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/12/16/01KCKT891PDFANS10XDCGA17JD.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_016",
+               "title":"Stitch Live 16",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2025/10/25/4lvlm8pzouB7kUErdxW4WgK0pMLVnUJwM1cj9bcw.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            },
+            {
+               "id":"stitch_017",
+               "title":"Stitch Live 17",
+               "category":"Stitch",
+               "thumbnail":"",
+               "video_url":"https://backend.wallpics.app/live/2026/01/25/01KFTPDCKZ1ZAVJP7TC39T3562.mp4",
+               "loop":true,
+               "downloadable":true,
+               "premium_only":false
+            }
+         ]
       }
-    },
-    "mobile": {
-      "theme_color": "#F518A1",
-      "ads": {
-        "clicksBeforeInterstitial": 5,
-        "autoShowIntervalSeconds": 0,
-        "banner": {
-          "enabled": false,
-          "autoLoad": false
-        }
-      }
-    }
-  },
-  "categories": [
-    {
-      "name": "Stitch",
-      "type": "video",
-      "videos": [
-        {
-          "id": "stitch_001",
-          "title": "Stitch Live 1",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/06/17/8siB7jsKiNLiKokGRoDQ23aH6jbnvrO1OCcpTmDp.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_002",
-          "title": "Stitch Live 2",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/06/29/m4j4AqXlZPXQBoCvPe3Rcrf44E2F5oNsNpbZQWeY.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_005",
-          "title": "Stitch Live 5",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/12/14/01KFD3STG7VDC1EB88Z4VA43WN.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_006",
-          "title": "Stitch Live 6",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/03/24/ulxLhBgP6LOuyl2XNnjVQmr3Ek6OP6TCHc4UeWL1.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_007",
-          "title": "Stitch Live 7",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/12/09/gG3jWFwcq5z7V8FowsqAIRf0obhlbl9CblbKq8oC.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_008",
-          "title": "Stitch Live 8",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/07/18/9uUm6yrfUqn9yjywkaMWXFa9168NyAl9e1G7wUpd.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_009",
-          "title": "Stitch Live 9",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/10/12/aB3lRiaOKrVVRPlJkTSGycG5QaH9VCYclradom3l.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_010",
-          "title": "Stitch Live 10",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/03/24/foqIxLl5j9guQzwSxrYxavQ8Lkz2ieK4foObeqdL.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_011",
-          "title": "Stitch Live 11",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/10/02/QAwTfZyQTPPOOAtd2V1eYOTs4NZBnI9UTXQDxBUI.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_012",
-          "title": "Stitch Live 12",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/10/02/Adm9sld6jNN5BdVElTkHnq4FQ3BHFG8l7EXqgasj.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_013",
-          "title": "Stitch Live 13",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/09/12/6duZ0c6vYxSXJ4tYDvqfHz79E3ia2BzVxnB8vfr4.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_014",
-          "title": "Stitch Live 14",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/10/14/01K7HKDJB03RCS6QNZ4292CXH0.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_015",
-          "title": "Stitch Live 15",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/12/16/01KCKT891PDFANS10XDCGA17JD.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_016",
-          "title": "Stitch Live 16",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2025/10/25/4lvlm8pzouB7kUErdxW4WgK0pMLVnUJwM1cj9bcw.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        },
-        {
-          "id": "stitch_017",
-          "title": "Stitch Live 17",
-          "category": "Stitch",
-          "thumbnail": "",
-          "video_url": "https://backend.wallpics.app/live/2026/01/25/01KFTPDCKZ1ZAVJP7TC39T3562.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        }
-      ]
-    }
-  ]
+   ]
 }
