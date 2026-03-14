@@ -47,8 +47,8 @@
             "userId":""
          },
          "mintegral":{
-            "enabled":false,
-            "testMode":false,
+            "enabled":true,
+            "testMode":true,
             "appId":"",
             "appKey":"",
             "units":{
@@ -70,7 +70,7 @@
                "enabled":false,
                "autoLoad":false
             },
-            "clicksBeforeInterstitial":5,
+            "clicksBeforeInterstitial":3,
             "autoShowIntervalSeconds":0
          }
       },
@@ -78,20 +78,20 @@
          "theme_color":"#F518A2",
          "ads":{
             "banner":{
-               "enabled":false,
+               "enabled":true,
                "autoLoad":false
             },
-            "clicksBeforeInterstitial":5,
+            "clicksBeforeInterstitial":3,
             "autoShowIntervalSeconds":0
          }
       },
       "mobile":{
          "theme_color":"#F518A1",
          "ads":{
-            "clicksBeforeInterstitial":5,
+            "clicksBeforeInterstitial":3,
             "autoShowIntervalSeconds":0,
             "banner":{
-               "enabled":false,
+               "enabled":true,
                "autoLoad":false
             }
          }
