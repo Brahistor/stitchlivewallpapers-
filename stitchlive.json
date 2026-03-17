@@ -13,6 +13,7 @@
          "more_apps_url":"https://www.amazon.com/s?i=mobile-apps&rh=p_4%3Abestwallpapers&search-type=ss",
          "show_remove_ads_button":true,
          "show_premium_button":true
+         "show_test_ads_button": true
       },
       "iap":{
          "enabled":false,
