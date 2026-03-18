@@ -49,8 +49,8 @@
         "bannerPlacement": "",
         "userId": ""
       },
-      "mintegral": {
-        "enabled": false,
+    "mintegral": {
+        "enabled": true,
         "testMode": true,
         "appId": "",
         "appKey": "",
