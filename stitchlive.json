@@ -32,7 +32,7 @@
       "clicksBeforeInterstitial": 3,
       "autoShowIntervalSeconds": 0,
       "banner": {
-        "enabled": false,
+        "enabled": true,
         "size": "BANNER",
         "position": "BOTTOM",
         "autoLoad": false,
@@ -44,14 +44,14 @@
         "interstitialAdUnitId": "69bekc868i4qqj7w",
         "rewardedAdUnitId": "slkvus5gn0aik4an",
         "bannerAdUnitId": "fsnu8d83hapd9dh7",
-        "interstitialPlacement": "",
-        "rewardedPlacement": "",
-        "bannerPlacement": "",
+        "interstitialPlacement": "Main_Menu",
+        "rewardedPlacement": "Achievements",
+        "bannerPlacement": "Home_Screen",
         "userId": ""
       },
     "mintegral": {
         "enabled": true,
-        "testMode": true,
+        "testMode": false,
         "appId": "",
         "appKey": "",
         "units": {
