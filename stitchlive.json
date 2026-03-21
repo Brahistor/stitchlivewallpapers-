@@ -52,15 +52,15 @@
     "mintegral": {
         "enabled": true,
         "testMode": true,
-        "appId": "",
-        "appKey": "",
+        "appId": "458150",
+        "appKey": "1830ca60e9705834759abc6bbe80a5a5",
         "units": {
-          "banner": "",
-          "bannerUnit": "",
-          "interstitial": "",
-          "interstitialUnit": "",
-          "rewarded": "",
-          "rewardedUnit": ""
+          "banner": "3464316",
+          "bannerUnit": "5796201",
+          "interstitial": "3464318",
+          "interstitialUnit": "5796203",
+          "rewarded": "3464320",
+          "rewardedUnit": "5796205"
         }
       }
     }
@@ -82,7 +82,7 @@
       "ads": {
         "banner": {
           "enabled": true,
-          "autoLoad": false
+          "autoLoad": true
         },
         "clicksBeforeInterstitial": 3,
         "autoShowIntervalSeconds": 0
@@ -95,7 +95,7 @@
         "autoShowIntervalSeconds": 0,
         "banner": {
           "enabled": true,
-          "autoLoad": false
+          "autoLoad": true
         }
       }
     }
