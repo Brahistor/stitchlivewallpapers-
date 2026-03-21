@@ -51,7 +51,7 @@
       },
     "mintegral": {
         "enabled": true,
-        "testMode": false,
+        "testMode": true,
         "appId": "",
         "appKey": "",
         "units": {
