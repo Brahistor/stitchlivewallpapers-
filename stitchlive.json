@@ -3,41 +3,34 @@
     "remote_config_version": 2,
     "app_name": "live wallpapers 4K of Stitch Ohana",
     "theme_color": "#F518A9",
-    "kids": {
-      "enabled": false,
-      "config_url": ""
-    },
+
     "buttons": {
       "rate_url": "https://www.amazon.com/dp/B0GS722GV8",
       "share_text": "https://www.amazon.com/dp/B0GS722GV8",
       "more_apps_url": "https://www.amazon.com/s?i=mobile-apps&rh=p_4%3Abestwallpapers&search-type=ss",
+      "privacy_url": "https://brahistor.github.io/stitchlivewallpapers-/privacy.html",
       "show_remove_ads_button": true,
       "show_premium_button": true
     },
+
     "iap": {
       "enabled": true,
-      "lifetimeSku": "com.stitchohana.wallpapers.remove_ads",
-      "subscriptions": {
-        "enabled": true,
-        "skus": {
-          "1m": "com.stitchohana.wallpapers.premium_111m",
-          "3m": "com.stitchohana.wallpapers.premium_33m",
-          "6m": "com.stitchohana.wallpapers.premium_66m",
-          "12m": "com.stitchohana.wallpapers.premium_12m"
-        }
-      }
+      "lifetimeSku": "com.stitchohana.wallpapers.remove_ads"
     },
+
     "ads": {
       "showAds": true,
       "clicksBeforeInterstitial": 3,
-      "autoShowIntervalSeconds": 0,
+      "autoShowIntervalSeconds": 45,
+
       "banner": {
         "enabled": true,
         "size": "BANNER",
         "position": "BOTTOM",
-        "autoLoad": false,
+        "autoLoad": true,
         "disableOnTv": true
       },
+
       "levelplay": {
         "enabled": true,
         "appKey": "25898f09d",
@@ -46,60 +39,30 @@
         "bannerAdUnitId": "fsnu8d83hapd9dh7",
         "interstitialPlacement": "Main_Menu",
         "rewardedPlacement": "Achievements",
-        "bannerPlacement": "Home_Screen",
-        "userId": ""
+        "bannerPlacement": "Home_Screen"
       },
-    "mintegral": {
+
+      "mintegral": {
         "enabled": true,
         "testMode": false,
         "appId": "458150",
-        "appKey": "1830ca60e9705834759abc6bbe80a5a5",
-        "units": {
-          "banner": "3464316",
-          "bannerUnit": "5796201",
-          "interstitial": "3464318",
-          "interstitialUnit": "5796203",
-          "rewarded": "3464320",
-          "rewardedUnit": "5796205"
-        }
-      }
-    }
-  },
-  "groups": {
-    "tv": {
-      "theme_color": "#F518A1",
-      "ads": {
-        "banner": {
-          "enabled": false,
-          "autoLoad": false
-        },
-        "clicksBeforeInterstitial": 3,
-        "autoShowIntervalSeconds": 0
+        "appKey": "1830ca60e9705834759abc6bbe80a5a5"
       }
     },
-    "tablet": {
-      "theme_color": "#F518A2",
-      "ads": {
-        "banner": {
-          "enabled": true,
-          "autoLoad": true
-        },
-        "clicksBeforeInterstitial": 3,
-        "autoShowIntervalSeconds": 0
-      }
-    },
-    "mobile": {
-      "theme_color": "#F518A1",
-      "ads": {
-        "clicksBeforeInterstitial": 3,
-        "autoShowIntervalSeconds": 0,
-        "banner": {
-          "enabled": true,
-          "autoLoad": true
-        }
-      }
-    }
-  },
+
+    "trending": [
+      "stitch_001",
+      "stitch_002",
+      "vid_0003"
+    ],
+
+    "new_releases": [
+      "stitch_016",
+      "stitch_017",
+      "stitch_img_001"
+    ]
+  }
+}
   "categories": [
     {
       "name": "Stitch",
