@@ -51,34 +51,39 @@
   "stitch_005"
 ],
     "categories": [
+
+  {
+    "name": "Anime Style Filters",
+    "device": "all",
+    "premium_only": false,
+    "rewarded_unlock": true,
+    "unlock_cost": 50,
+    "videos": [
       {
-  "name": "Anime Style Filters",
-  "device": "all",
-  "premium_only": false,
-  "rewarded_unlock": true,
-  "unlock_cost": 50,
-  "videos": [
-    {
-      "id": "anime_filter_1",
-      "title": "Try Anime Filter",
-      "thumbnail": "https://i.imgur.com/8Km9tLL.jpg",
-      "type": "image",
-      "url": "anime://open"
-    },
+        "id": "anime_filter_1",
+        "title": "Try Anime Filter",
+        "thumbnail": "https://i.imgur.com/8Km9tLL.jpg",
+        "type": "image",
+        "url": "anime://open"
+      }
+    ]
+  },
+
+  {
+    "name": "Stitch",
+    "device": "all",
+    "premium_only": false,
+    "videos": [
       {
-        "name": "Stitch",
-        "type": "video",
-        "videos": [
-          {
-            "id": "stitch_001",
-            "title": "Stitch Live 1",
-            "category": "Stitch",
-            "thumbnail": "",
-            "video_url": "https://backend.wallpics.app/live/2025/06/17/8siB7jsKiNLiKokGRoDQ23aH6jbnvrO1OCcpTmDp.mp4",
-            "loop": true,
-            "downloadable": true,
-            "premium_only": false
-          },
+        "id": "stitch_001",
+        "title": "Stitch Live 1",
+        "category": "Stitch",
+        "thumbnail": "",
+        "video_url": "https://backend.wallpics.app/live/2025/06/17/8siB7jsKiNLiKokGRoDQ23aH6jbnvrO1OCcpTmDp.mp4",
+        "loop": true,
+        "downloadable": true,
+        "premium_only": false
+      },
           {
             "id": "stitch_002",
             "title": "Stitch Live 2",
