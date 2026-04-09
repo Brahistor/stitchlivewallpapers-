@@ -59,11 +59,6 @@
     "rewarded_unlock": true,
     "unlock_cost": 50,
     "videos": [
-  {
-    "name": "Stitch",
-    "device": "all",
-    "premium_only": false,
-    "videos": [
       {
         "id": "stitch_001",
         "title": "Stitch Live 1",
@@ -2171,7 +2166,7 @@
       }
     ]
   },
-  "categories",":", [
+  "categories": [
     {
       "name": "Stitch",
       "type": "video",
