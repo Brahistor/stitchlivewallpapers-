@@ -60,6 +60,21 @@
     "unlock_cost": 50,
     "videos": [
       {
+        "id": "anime_filter_1",
+        "title": "Try Anime Filter",
+        "thumbnail": "https://i.imgur.com/8Km9tLL.jpg",
+        "type": "image",
+        "url": "anime://open"
+      }
+    ]
+  },
+
+  {
+    "name": "Stitch",
+    "device": "all",
+    "premium_only": false,
+    "videos": [
+      {
         "id": "stitch_001",
         "title": "Stitch Live 1",
         "category": "Stitch",
