@@ -2171,7 +2171,7 @@
       }
     ]
   },
-  "categories": [
+  "categories",":", [
     {
       "name": "Stitch",
       "type": "video",
@@ -2328,5 +2328,5 @@
         }
       ]
     }
-  ]
-}
+  ]]
+}}
