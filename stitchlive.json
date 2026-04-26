@@ -41,7 +41,7 @@
         "testMode": false,
         "appId": "458150",
         "appKey": "1830ca60e9705834759abc6bbe80a5a5"
-      }
+      },
         "unity": {
         "enabled": false,
         "testMode": false,
@@ -49,6 +49,7 @@
         "interstitialPlacementId": "",
         "rewardedPlacementId": "",
         "bannerPlacementId": ""
+          }
     },
     "trending": [
       "stitch_001",
