@@ -1709,42 +1709,7 @@
         ],
         "type": "video"
       },
-      {
-        "name": "Halloween",
-        "videos": [
-          {
-            "id": "vid_0033",
-            "title": "Halloween Girl Witch",
-            "category": "Halloween",
-            "thumbnail": "",
-            "video_url": "https://mylivewallpapers.com/wp-content/uploads/Halloween/PREVIEW-Halloween-Girl-Witch.mp4",
-            "loop": true,
-            "downloadable": true,
-            "premium_only": false
-          },
-          {
-            "id": "vid_0035",
-            "title": "Trick or Treat Demon Girl",
-            "category": "Halloween",
-            "thumbnail": "",
-            "video_url": "https://mylivewallpapers.com/wp-content/uploads/Halloween/PREVIEW-Trick-or-Treat-Demon-Girl.mp4",
-            "loop": true,
-            "downloadable": true,
-            "premium_only": false
-          },
-          {
-            "id": "vid_0038",
-            "title": "Spooky Girl Halloween",
-            "category": "Halloween",
-            "thumbnail": "",
-            "video_url": "https://mylivewallpapers.com/wp-content/uploads/Halloween/PREVIEW-Spooky-Girl-Halloween.mp4",
-            "loop": true,
-            "downloadable": true,
-            "premium_only": false
-          }
-        ],
-        "type": "video"
-      },
+    
       {
         "name": "Lifestyle",
         "videos": [
