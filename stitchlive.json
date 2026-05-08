@@ -1,13 +1,13 @@
 {
   "general": {
     "remote_config_version": 2,
-    "app_name": "live wallpapers 4K of Stitch Ohana",
+    "app_name": "Cute Blue Alien Live Wallpapers 4K",
     "theme_color": "#F518A9",
     "buttons": {
       "rate_url": "https://www.amazon.com/dp/B0GS722GV8",
       "share_text": "https://www.amazon.com/dp/B0GS722GV8",
       "more_apps_url": "https://www.amazon.com/s?i=mobile-apps&rh=p_4%3Abestwallpapers&search-type=ss",
-      "privacy_url": "https://brahistor.github.io/stitchlivewallpapers-/privacy.html",
+      "privacy_url": "https://brahistor.github.io/stitchwallpapers-/privacy.html",
       "show_remove_ads_button": true,
       "show_premium_button": true
     },
@@ -52,22 +52,22 @@
           }
     },
     "trending": [
-      "stitch_001",
-      "stitch_002"
+      "Cute Blue Alien_001",
+      "Cute Blue Alien_002"
     ],
     "new_releases": [
-  "stitch_005"
+  "Cute Blue Alien_005"
 ],
     "categories": [
   {
-    "name": "Stitch",
+    "name": "Cute Blue Alien",
     "device": "all",
     "premium_only": false,
     "videos": [
       {
-        "id": "stitch_001",
-        "title": "Stitch Live 1",
-        "category": "Stitch",
+        "id": "Cute Blue Alien_001",
+        "title": "Cute Blue Alien Live 1",
+        "category": "Cute Blue Alien",
         "thumbnail": "",
         "video_url": "https://backend.wallpics.app/live/2025/06/17/8siB7jsKiNLiKokGRoDQ23aH6jbnvrO1OCcpTmDp.mp4",
         "loop": true,
@@ -75,9 +75,9 @@
         "premium_only": false
       },
           {
-            "id": "stitch_002",
-            "title": "Stitch Live 2",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_002",
+            "title": "Cute Blue Alien Live 2",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/06/29/m4j4AqXlZPXQBoCvPe3Rcrf44E2F5oNsNpbZQWeY.mp4",
             "loop": true,
@@ -85,9 +85,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_005",
-            "title": "Stitch Live 5",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_005",
+            "title": "Cute Blue Alien Live 5",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/12/14/01KFD3STG7VDC1EB88Z4VA43WN.mp4",
             "loop": true,
@@ -95,9 +95,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_006",
-            "title": "Stitch Live 6",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_006",
+            "title": "Cute Blue Alien Live 6",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/03/24/ulxLhBgP6LOuyl2XNnjVQmr3Ek6OP6TCHc4UeWL1.mp4",
             "loop": true,
@@ -105,9 +105,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_007",
-            "title": "Stitch Live 7",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_007",
+            "title": "Cute Blue Alien Live 7",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/12/09/gG3jWFwcq5z7V8FowsqAIRf0obhlbl9CblbKq8oC.mp4",
             "loop": true,
@@ -115,9 +115,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_008",
-            "title": "Stitch Live 8",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_008",
+            "title": "Cute Blue Alien Live 8",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/07/18/9uUm6yrfUqn9yjywkaMWXFa9168NyAl9e1G7wUpd.mp4",
             "loop": true,
@@ -125,9 +125,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_009",
-            "title": "Stitch Live 9",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_009",
+            "title": "Cute Blue Alien Live 9",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/10/12/aB3lRiaOKrVVRPlJkTSGycG5QaH9VCYclradom3l.mp4",
             "loop": true,
@@ -135,9 +135,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_010",
-            "title": "Stitch Live 10",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_010",
+            "title": "Cute Blue Alien Live 10",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/03/24/foqIxLl5j9guQzwSxrYxavQ8Lkz2ieK4foObeqdL.mp4",
             "loop": true,
@@ -145,9 +145,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_011",
-            "title": "Stitch Live 11",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_011",
+            "title": "Cute Blue Alien Live 11",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/10/02/QAwTfZyQTPPOOAtd2V1eYOTs4NZBnI9UTXQDxBUI.mp4",
             "loop": true,
@@ -155,9 +155,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_012",
-            "title": "Stitch Live 12",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_012",
+            "title": "Cute Blue Alien Live 12",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/10/02/Adm9sld6jNN5BdVElTkHnq4FQ3BHFG8l7EXqgasj.mp4",
             "loop": true,
@@ -165,9 +165,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_013",
-            "title": "Stitch Live 13",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_013",
+            "title": "Cute Blue Alien Live 13",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/09/12/6duZ0c6vYxSXJ4tYDvqfHz79E3ia2BzVxnB8vfr4.mp4",
             "loop": true,
@@ -175,9 +175,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_014",
-            "title": "Stitch Live 14",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_014",
+            "title": "Cute Blue Alien Live 14",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/10/14/01K7HKDJB03RCS6QNZ4292CXH0.mp4",
             "loop": true,
@@ -185,9 +185,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_015",
-            "title": "Stitch Live 15",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_015",
+            "title": "Cute Blue Alien Live 15",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/12/16/01KCKT891PDFANS10XDCGA17JD.mp4",
             "loop": true,
@@ -195,9 +195,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_016",
-            "title": "Stitch Live 16",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_016",
+            "title": "Cute Blue Alien Live 16",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2025/10/25/4lvlm8pzouB7kUErdxW4WgK0pMLVnUJwM1cj9bcw.mp4",
             "loop": true,
@@ -205,9 +205,9 @@
             "premium_only": false
           },
           {
-            "id": "stitch_017",
-            "title": "Stitch Live 17",
-            "category": "Stitch",
+            "id": "Cute Blue Alien_017",
+            "title": "Cute Blue Alien Live 17",
+            "category": "Cute Blue Alien",
             "thumbnail": "",
             "video_url": "https://backend.wallpics.app/live/2026/01/25/01KFTPDCKZ1ZAVJP7TC39T3562.mp4",
             "loop": true,
@@ -217,658 +217,658 @@
         ]
       },
       {
-        "name": "Stitch Wallpapers (Images)",
+        "name": "Cute Blue Alien Wallpapers (Images)",
         "type": "image",
         "videos": [
           {
-            "id": "stitch_img_001",
-            "title": "Stitch Wallpaper 1",
-            "category": "Stitch Wallpapers",
+            "id": "Cute Blue Alien_img_001",
+            "title": "Cute Blue Alien Wallpaper 1",
+            "category": "Cute Blue Alien Wallpapers",
             "image_url": "https://i.pinimg.com/736x/88/4b/91/884b918deb8dda3900397ba80717670d.jpg",
             "premium_only": false
           },
           {
-            "id": "stitch_img_002",
-            "title": "Stitch Wallpaper 2",
-            "category": "Stitch Wallpapers",
+            "id": "Cute Blue Alien_img_002",
+            "title": "Cute Blue Alien Wallpaper 2",
+            "category": "Cute Blue Alien Wallpapers",
             "image_url": "https://i.pinimg.com/736x/8e/28/17/8e2817baad49beb19d08fbb085d19dce.jpg",
             "premium_only": false
           },
           {
-            "id": "stitch_img_003",
-            "title": "Stitch Wallpaper 3",
-            "category": "Stitch Wallpapers",
+            "id": "Cute Blue Alien_img_003",
+            "title": "Cute Blue Alien Wallpaper 3",
+            "category": "Cute Blue Alien Wallpapers",
             "image_url": "https://i.pinimg.com/736x/0d/6b/2b/0d6b2beda4e7c83f43242691e26b71a8.jpg",
             "premium_only": false
           },
           {
-            "id": "stitch_img_004",
-            "title": "Stitch Wallpaper 4",
-            "category": "Stitch Wallpapers",
+            "id": "Cute Blue Alien_img_004",
+            "title": "Cute Blue Alien Wallpaper 4",
+            "category": "Cute Blue Alien Wallpapers",
             "image_url": "https://i.pinimg.com/1200x/d8/5f/d7/d85fd765040f5e81436810f7fb91c80d.jpg",
             "premium_only": false
           },
           {
-            "id": "stitch_img_005",
-            "title": "Stitch Wallpaper 5",
-            "category": "Stitch Wallpapers",
+            "id": "Cute Blue Alien_img_005",
+            "title": "Cute Blue Alien Wallpaper 5",
+            "category": "Cute Blue Alien Wallpapers",
             "image_url": "https://i.pinimg.com/736x/f1/e2/8f/f1e28fae2b2016ffc45915984a69233e.jpg",
             "premium_only": false
           },
           {
-            "id": "stitch_img_006",
-            "title": "Stitch Wallpaper 6",
-            "category": "Stitch Wallpapers",
+            "id": "Cute Blue Alien_img_006",
+            "title": "Cute Blue Alien Wallpaper 6",
+            "category": "Cute Blue Alien Wallpapers",
             "image_url": "https://i.pinimg.com/736x/97/93/93/9793934cabc7f4b30efda4deacc220ac.jpg",
             "premium_only": false
           },
           {
-            "id": "stitch_img_007",
-            "title": "Stitch Wallpaper 7",
-            "category": "Stitch Wallpapers",
+            "id": "Cute Blue Alien_img_007",
+            "title": "Cute Blue Alien Wallpaper 7",
+            "category": "Cute Blue Alien Wallpapers",
             "image_url": "https://i.pinimg.com/1200x/42/b2/6f/42b26f0d08e8bfb110e1c7ff75c9e437.jpg",
             "premium_only": false
           },
           {
-            "id": "stitch_img_008",
-            "title": "Stitch Wallpaper 8",
-            "category": "Stitch Wallpapers",
+            "id": "Cute Blue Alien_img_008",
+            "title": "Cute Blue Alien Wallpaper 8",
+            "category": "Cute Blue Alien Wallpapers",
             "image_url": "https://i.pinimg.com/736x/a9/de/44/a9de442ee569c64c938aeafa9342ef3f.jpg",
             "premium_only": false
           },
           {
-            "id": "stitch_img_009",
-            "title": "Stitch Wallpaper 9",
-            "category": "Stitch Wallpapers",
+            "id": "Cute Blue Alien_img_009",
+            "title": "Cute Blue Alien Wallpaper 9",
+            "category": "Cute Blue Alien Wallpapers",
             "image_url": "https://i.pinimg.com/736x/95/1d/86/951d867157b3d809bbb50b5896f58aad.jpg",
             "premium_only": false
           },
           {
-            "id": "stitch_img_010",
-            "title": "Stitch Wallpaper 10",
-            "category": "Stitch Wallpapers",
+            "id": "Cute Blue Alien_img_010",
+            "title": "Cute Blue Alien Wallpaper 10",
+            "category": "Cute Blue Alien Wallpapers",
             "image_url": "https://i.pinimg.com/1200x/22/2b/9e/222b9e07eba03651e83198a1351b3569.jpg",
             "premium_only": false
           },
           {
             "id": "img_001",
-            "title": "Stitch Wallpaper 1",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/xTqBVLf8-fond-decran-stitch-9.webp",
+            "title": "Cute Blue Alien Wallpaper 1",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/xTqBVLf8-fond-decran-Cute Blue Alien-9.webp",
             "premium_only": false
           },
           {
             "id": "img_002",
-            "title": "Stitch Wallpaper 2",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/vKWaInu8-fond-decran-stitch-50.webp",
+            "title": "Cute Blue Alien Wallpaper 2",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/vKWaInu8-fond-decran-Cute Blue Alien-50.webp",
             "premium_only": false
           },
           {
             "id": "img_003",
-            "title": "Stitch Wallpaper 3",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/Jv8vQQln-fond-decran-stitch-49.webp",
+            "title": "Cute Blue Alien Wallpaper 3",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/Jv8vQQln-fond-decran-Cute Blue Alien-49.webp",
             "premium_only": false
           },
           {
             "id": "img_004",
-            "title": "Stitch Wallpaper 4",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/Mh9F5rfa-fond-decran-stitch-48.webp",
+            "title": "Cute Blue Alien Wallpaper 4",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/Mh9F5rfa-fond-decran-Cute Blue Alien-48.webp",
             "premium_only": false
           },
           {
             "id": "img_005",
-            "title": "Stitch Wallpaper 5",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/yX7OFQab-fond-decran-stitch-47.webp",
+            "title": "Cute Blue Alien Wallpaper 5",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/yX7OFQab-fond-decran-Cute Blue Alien-47.webp",
             "premium_only": false
           },
           {
             "id": "img_006",
-            "title": "Stitch Wallpaper 6",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/Eyi7KDlM-fond-decran-stitch-46.webp",
+            "title": "Cute Blue Alien Wallpaper 6",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/Eyi7KDlM-fond-decran-Cute Blue Alien-46.webp",
             "premium_only": false
           },
           {
             "id": "img_007",
-            "title": "Stitch Wallpaper 7",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/eKKYTGHf-fond-decran-stitch-45.webp",
+            "title": "Cute Blue Alien Wallpaper 7",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/eKKYTGHf-fond-decran-Cute Blue Alien-45.webp",
             "premium_only": false
           },
           {
             "id": "img_008",
-            "title": "Stitch Wallpaper 8",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/tbIiKqYA-fond-decran-stitch-44.webp",
+            "title": "Cute Blue Alien Wallpaper 8",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/tbIiKqYA-fond-decran-Cute Blue Alien-44.webp",
             "premium_only": false
           },
           {
             "id": "img_009",
-            "title": "Stitch Wallpaper 9",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/onfL2fWi-fond-decran-stitch-43.webp",
+            "title": "Cute Blue Alien Wallpaper 9",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/onfL2fWi-fond-decran-Cute Blue Alien-43.webp",
             "premium_only": false
           },
           {
             "id": "img_010",
-            "title": "Stitch Wallpaper 10",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/ZwNNqCeE-fond-decran-stitch-42.webp",
+            "title": "Cute Blue Alien Wallpaper 10",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/ZwNNqCeE-fond-decran-Cute Blue Alien-42.webp",
             "premium_only": false
           },
           {
             "id": "img_011",
-            "title": "Stitch Wallpaper 11",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/3s1WMU9M-fond-decran-stitch-41.webp",
+            "title": "Cute Blue Alien Wallpaper 11",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/3s1WMU9M-fond-decran-Cute Blue Alien-41.webp",
             "premium_only": false
           },
           {
             "id": "img_012",
-            "title": "Stitch Wallpaper 12",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/PTL5mtQC-fond-decran-stitch-40.webp",
+            "title": "Cute Blue Alien Wallpaper 12",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/PTL5mtQC-fond-decran-Cute Blue Alien-40.webp",
             "premium_only": false
           },
           {
             "id": "img_013",
-            "title": "Stitch Wallpaper 13",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/KGJuFbnF-fond-decran-stitch-39.webp",
+            "title": "Cute Blue Alien Wallpaper 13",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/KGJuFbnF-fond-decran-Cute Blue Alien-39.webp",
             "premium_only": false
           },
           {
             "id": "img_014",
-            "title": "Stitch Wallpaper 14",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/0NZ5B435-fond-decran-stitch-38.webp",
+            "title": "Cute Blue Alien Wallpaper 14",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/0NZ5B435-fond-decran-Cute Blue Alien-38.webp",
             "premium_only": false
           },
           {
             "id": "img_015",
-            "title": "Stitch Wallpaper 15",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/yOFdiyRG-fond-decran-stitch-37.webp",
+            "title": "Cute Blue Alien Wallpaper 15",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/yOFdiyRG-fond-decran-Cute Blue Alien-37.webp",
             "premium_only": false
           },
           {
             "id": "img_016",
-            "title": "Stitch Wallpaper 16",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/fki8R378-fond-decran-stitch-36.webp",
+            "title": "Cute Blue Alien Wallpaper 16",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/fki8R378-fond-decran-Cute Blue Alien-36.webp",
             "premium_only": false
           },
           {
             "id": "img_017",
-            "title": "Stitch Wallpaper 17",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/Zy2vX4FA-fond-decran-stitch-35.webp",
+            "title": "Cute Blue Alien Wallpaper 17",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/Zy2vX4FA-fond-decran-Cute Blue Alien-35.webp",
             "premium_only": false
           },
           {
             "id": "img_018",
-            "title": "Stitch Wallpaper 18",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/emqniMCl-fond-decran-stitch-34.webp",
+            "title": "Cute Blue Alien Wallpaper 18",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/emqniMCl-fond-decran-Cute Blue Alien-34.webp",
             "premium_only": false
           },
           {
             "id": "img_019",
-            "title": "Stitch Wallpaper 19",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/ZOBwgwSM-fond-decran-stitch-33.webp",
+            "title": "Cute Blue Alien Wallpaper 19",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/ZOBwgwSM-fond-decran-Cute Blue Alien-33.webp",
             "premium_only": false
           },
           {
             "id": "img_020",
-            "title": "Stitch Wallpaper 20",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/uh7gHVbv-fond-decran-stitch-32.webp",
+            "title": "Cute Blue Alien Wallpaper 20",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/uh7gHVbv-fond-decran-Cute Blue Alien-32.webp",
             "premium_only": false
           },
           {
             "id": "img_021",
-            "title": "Stitch Wallpaper 21",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/2E6YJkXb-fond-decran-stitch-31.webp",
+            "title": "Cute Blue Alien Wallpaper 21",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/2E6YJkXb-fond-decran-Cute Blue Alien-31.webp",
             "premium_only": false
           },
           {
             "id": "img_022",
-            "title": "Stitch Wallpaper 22",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/0ZD9tZ6I-fond-decran-stitch-30.webp",
+            "title": "Cute Blue Alien Wallpaper 22",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/0ZD9tZ6I-fond-decran-Cute Blue Alien-30.webp",
             "premium_only": false
           },
           {
             "id": "img_023",
-            "title": "Stitch Wallpaper 23",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/m4l8Hakg-fond-decran-stitch-29.webp",
+            "title": "Cute Blue Alien Wallpaper 23",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/m4l8Hakg-fond-decran-Cute Blue Alien-29.webp",
             "premium_only": false
           },
           {
             "id": "img_024",
-            "title": "Stitch Wallpaper 24",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/1Z7Prmag-fond-decran-stitch-28.webp",
+            "title": "Cute Blue Alien Wallpaper 24",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/1Z7Prmag-fond-decran-Cute Blue Alien-28.webp",
             "premium_only": false
           },
           {
             "id": "img_025",
-            "title": "Stitch Wallpaper 25",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/dPU7iIUg-fond-decran-stitch-26.webp",
+            "title": "Cute Blue Alien Wallpaper 25",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/dPU7iIUg-fond-decran-Cute Blue Alien-26.webp",
             "premium_only": false
           },
           {
             "id": "img_026",
-            "title": "Stitch Wallpaper 26",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/KhM4PeWD-fond-decran-stitch-25.webp",
+            "title": "Cute Blue Alien Wallpaper 26",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/KhM4PeWD-fond-decran-Cute Blue Alien-25.webp",
             "premium_only": false
           },
           {
             "id": "img_027",
-            "title": "Stitch Wallpaper 27",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/Yq27vfaV-fond-decran-stitch-24.webp",
+            "title": "Cute Blue Alien Wallpaper 27",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/Yq27vfaV-fond-decran-Cute Blue Alien-24.webp",
             "premium_only": false
           },
           {
             "id": "img_028",
-            "title": "Stitch Wallpaper 28",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/uPAdv4E2-fond-decran-stitch-23.webp",
+            "title": "Cute Blue Alien Wallpaper 28",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/uPAdv4E2-fond-decran-Cute Blue Alien-23.webp",
             "premium_only": false
           },
           {
             "id": "img_029",
-            "title": "Stitch Wallpaper 29",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/fLEPYVJO-fond-decran-stitch-22.webp",
+            "title": "Cute Blue Alien Wallpaper 29",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/fLEPYVJO-fond-decran-Cute Blue Alien-22.webp",
             "premium_only": false
           },
           {
             "id": "img_030",
-            "title": "Stitch Wallpaper 30",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/joPLzFpB-fond-decran-stitch-21.webp",
+            "title": "Cute Blue Alien Wallpaper 30",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/joPLzFpB-fond-decran-Cute Blue Alien-21.webp",
             "premium_only": false
           },
           {
             "id": "img_031",
-            "title": "Stitch Wallpaper 31",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/MmEkpnlO-fond-decran-stitch-18.webp",
+            "title": "Cute Blue Alien Wallpaper 31",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/MmEkpnlO-fond-decran-Cute Blue Alien-18.webp",
             "premium_only": false
           },
           {
             "id": "img_032",
-            "title": "Stitch Wallpaper 32",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/gvF5w7qQ-fond-decran-stitch-17.webp",
+            "title": "Cute Blue Alien Wallpaper 32",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/gvF5w7qQ-fond-decran-Cute Blue Alien-17.webp",
             "premium_only": false
           },
           {
             "id": "img_033",
-            "title": "Stitch Wallpaper 33",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/7HliQe1z-fond-decran-stitch-16.webp",
+            "title": "Cute Blue Alien Wallpaper 33",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/7HliQe1z-fond-decran-Cute Blue Alien-16.webp",
             "premium_only": false
           },
           {
             "id": "img_034",
-            "title": "Stitch Wallpaper 34",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/v3VWPT9M-fond-decran-stitch-15.webp",
+            "title": "Cute Blue Alien Wallpaper 34",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/v3VWPT9M-fond-decran-Cute Blue Alien-15.webp",
             "premium_only": false
           },
           {
             "id": "img_035",
-            "title": "Stitch Wallpaper 35",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/hglY6ysG-fond-decran-stitch-14.webp",
+            "title": "Cute Blue Alien Wallpaper 35",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/hglY6ysG-fond-decran-Cute Blue Alien-14.webp",
             "premium_only": false
           },
           {
             "id": "img_036",
-            "title": "Stitch Wallpaper 36",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/jh6fkp5s-fond-decran-stitch-13.webp",
+            "title": "Cute Blue Alien Wallpaper 36",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/jh6fkp5s-fond-decran-Cute Blue Alien-13.webp",
             "premium_only": false
           },
           {
             "id": "img_037",
-            "title": "Stitch Wallpaper 37",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/RQtlSURE-fond-decran-stitch-12.webp",
+            "title": "Cute Blue Alien Wallpaper 37",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/RQtlSURE-fond-decran-Cute Blue Alien-12.webp",
             "premium_only": false
           },
           {
             "id": "img_038",
-            "title": "Stitch Wallpaper 38",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/hvRcvWhz-fond-decran-stitch-83.webp",
+            "title": "Cute Blue Alien Wallpaper 38",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/hvRcvWhz-fond-decran-Cute Blue Alien-83.webp",
             "premium_only": false
           },
           {
             "id": "img_039",
-            "title": "Stitch Wallpaper 39",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/SeFY1WaS-fond-decran-stitch-82.webp",
+            "title": "Cute Blue Alien Wallpaper 39",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/SeFY1WaS-fond-decran-Cute Blue Alien-82.webp",
             "premium_only": false
           },
           {
             "id": "img_040",
-            "title": "Stitch Wallpaper 40",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/O9dIPZAW-fond-decran-stitch-81.webp",
+            "title": "Cute Blue Alien Wallpaper 40",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/O9dIPZAW-fond-decran-Cute Blue Alien-81.webp",
             "premium_only": false
           },
           {
             "id": "img_041",
-            "title": "Stitch Wallpaper 41",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/84zXFl2h-fond-decran-stitch-80.webp",
+            "title": "Cute Blue Alien Wallpaper 41",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/84zXFl2h-fond-decran-Cute Blue Alien-80.webp",
             "premium_only": false
           },
           {
             "id": "img_042",
-            "title": "Stitch Wallpaper 42",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/noqEp4Mq-fond-decran-stitch-79.webp",
+            "title": "Cute Blue Alien Wallpaper 42",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/noqEp4Mq-fond-decran-Cute Blue Alien-79.webp",
             "premium_only": false
           },
           {
             "id": "img_043",
-            "title": "Stitch Wallpaper 43",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/ZhmVM3Rl-fond-decran-stitch-78.webp",
+            "title": "Cute Blue Alien Wallpaper 43",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/ZhmVM3Rl-fond-decran-Cute Blue Alien-78.webp",
             "premium_only": false
           },
           {
             "id": "img_044",
-            "title": "Stitch Wallpaper 44",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/KgszSVGb-fond-decran-stitch-77.webp",
+            "title": "Cute Blue Alien Wallpaper 44",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/KgszSVGb-fond-decran-Cute Blue Alien-77.webp",
             "premium_only": false
           },
           {
             "id": "img_045",
-            "title": "Stitch Wallpaper 45",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/SL8Au92k-fond-decran-stitch-76.webp",
+            "title": "Cute Blue Alien Wallpaper 45",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/SL8Au92k-fond-decran-Cute Blue Alien-76.webp",
             "premium_only": false
           },
           {
             "id": "img_046",
-            "title": "Stitch Wallpaper 46",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/8dWPo0la-fond-decran-stitch-75.webp",
+            "title": "Cute Blue Alien Wallpaper 46",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/8dWPo0la-fond-decran-Cute Blue Alien-75.webp",
             "premium_only": false
           },
           {
             "id": "img_047",
-            "title": "Stitch Wallpaper 47",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/5jz4icWH-fond-decran-stitch-74.webp",
+            "title": "Cute Blue Alien Wallpaper 47",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/5jz4icWH-fond-decran-Cute Blue Alien-74.webp",
             "premium_only": false
           },
           {
             "id": "img_048",
-            "title": "Stitch Wallpaper 48",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/zIWURx6P-fond-decran-stitch-73.webp",
+            "title": "Cute Blue Alien Wallpaper 48",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/zIWURx6P-fond-decran-Cute Blue Alien-73.webp",
             "premium_only": false
           },
           {
             "id": "img_049",
-            "title": "Stitch Wallpaper 49",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/mpS8KfAs-fond-decran-stitch-72.webp",
+            "title": "Cute Blue Alien Wallpaper 49",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/mpS8KfAs-fond-decran-Cute Blue Alien-72.webp",
             "premium_only": false
           },
           {
             "id": "img_050",
-            "title": "Stitch Wallpaper 50",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/3RVtqF6S-fond-decran-stitch-71.webp",
+            "title": "Cute Blue Alien Wallpaper 50",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/3RVtqF6S-fond-decran-Cute Blue Alien-71.webp",
             "premium_only": false
           },
           {
             "id": "img_051",
-            "title": "Stitch Wallpaper 51",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/ds8DYfkg-fond-decran-stitch-70.webp",
+            "title": "Cute Blue Alien Wallpaper 51",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/ds8DYfkg-fond-decran-Cute Blue Alien-70.webp",
             "premium_only": false
           },
           {
             "id": "img_052",
-            "title": "Stitch Wallpaper 52",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/plsolBNP-fond-decran-stitch-69.webp",
+            "title": "Cute Blue Alien Wallpaper 52",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/plsolBNP-fond-decran-Cute Blue Alien-69.webp",
             "premium_only": false
           },
           {
             "id": "img_053",
-            "title": "Stitch Wallpaper 53",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/OwJwdU6q-fond-decran-stitch-68.webp",
+            "title": "Cute Blue Alien Wallpaper 53",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/OwJwdU6q-fond-decran-Cute Blue Alien-68.webp",
             "premium_only": false
           },
           {
             "id": "img_054",
-            "title": "Stitch Wallpaper 54",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/nRJJY0CK-fond-decran-stitch-67.webp",
+            "title": "Cute Blue Alien Wallpaper 54",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/nRJJY0CK-fond-decran-Cute Blue Alien-67.webp",
             "premium_only": false
           },
           {
             "id": "img_055",
-            "title": "Stitch Wallpaper 55",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/obc4Zqms-fond-decran-stitch-66.webp",
+            "title": "Cute Blue Alien Wallpaper 55",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/obc4Zqms-fond-decran-Cute Blue Alien-66.webp",
             "premium_only": false
           },
           {
             "id": "img_056",
-            "title": "Stitch Wallpaper 56",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/FgyutwMy-fond-decran-stitch-65.webp",
+            "title": "Cute Blue Alien Wallpaper 56",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/FgyutwMy-fond-decran-Cute Blue Alien-65.webp",
             "premium_only": false
           },
           {
             "id": "img_057",
-            "title": "Stitch Wallpaper 57",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/SbLa5i1T-fond-decran-stitch-64.webp",
+            "title": "Cute Blue Alien Wallpaper 57",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/SbLa5i1T-fond-decran-Cute Blue Alien-64.webp",
             "premium_only": false
           },
           {
             "id": "img_058",
-            "title": "Stitch Wallpaper 58",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/cqPVupU4-fond-decran-stitch-63.webp",
+            "title": "Cute Blue Alien Wallpaper 58",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/cqPVupU4-fond-decran-Cute Blue Alien-63.webp",
             "premium_only": false
           },
           {
             "id": "img_059",
-            "title": "Stitch Wallpaper 59",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/7tysATNz-fond-decran-stitch-62.webp",
+            "title": "Cute Blue Alien Wallpaper 59",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/7tysATNz-fond-decran-Cute Blue Alien-62.webp",
             "premium_only": false
           },
           {
             "id": "img_060",
-            "title": "Stitch Wallpaper 60",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/i4DM8ppt-fond-decran-stitch-61.webp",
+            "title": "Cute Blue Alien Wallpaper 60",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/i4DM8ppt-fond-decran-Cute Blue Alien-61.webp",
             "premium_only": false
           },
           {
             "id": "img_061",
-            "title": "Stitch Wallpaper 61",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/JXSyoJcu-fond-decran-stitch-60.webp",
+            "title": "Cute Blue Alien Wallpaper 61",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/JXSyoJcu-fond-decran-Cute Blue Alien-60.webp",
             "premium_only": false
           },
           {
             "id": "img_062",
-            "title": "Stitch Wallpaper 62",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/4PWD21lu-fond-decran-stitch-59.webp",
+            "title": "Cute Blue Alien Wallpaper 62",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/4PWD21lu-fond-decran-Cute Blue Alien-59.webp",
             "premium_only": false
           },
           {
             "id": "img_063",
-            "title": "Stitch Wallpaper 63",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/J0xolASu-fond-decran-stitch-58.webp",
+            "title": "Cute Blue Alien Wallpaper 63",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/J0xolASu-fond-decran-Cute Blue Alien-58.webp",
             "premium_only": false
           },
           {
             "id": "img_064",
-            "title": "Stitch Wallpaper 64",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/qQ78ObbI-fond-decran-stitch-57.webp",
+            "title": "Cute Blue Alien Wallpaper 64",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/qQ78ObbI-fond-decran-Cute Blue Alien-57.webp",
             "premium_only": false
           },
           {
             "id": "img_065",
-            "title": "Stitch Wallpaper 65",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/9yktIC1l-fond-decran-stitch-56.webp",
+            "title": "Cute Blue Alien Wallpaper 65",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/9yktIC1l-fond-decran-Cute Blue Alien-56.webp",
             "premium_only": false
           },
           {
             "id": "img_066",
-            "title": "Stitch Wallpaper 66",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/0sENWgnB-fond-decran-stitch-55.webp",
+            "title": "Cute Blue Alien Wallpaper 66",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/0sENWgnB-fond-decran-Cute Blue Alien-55.webp",
             "premium_only": false
           },
           {
             "id": "img_067",
-            "title": "Stitch Wallpaper 67",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/i8qWFMIB-fond-decran-stitch-54.webp",
+            "title": "Cute Blue Alien Wallpaper 67",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/i8qWFMIB-fond-decran-Cute Blue Alien-54.webp",
             "premium_only": false
           },
           {
             "id": "img_068",
-            "title": "Stitch Wallpaper 68",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/FC5pKMAO-fond-decran-stitch-53.webp",
+            "title": "Cute Blue Alien Wallpaper 68",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/FC5pKMAO-fond-decran-Cute Blue Alien-53.webp",
             "premium_only": false
           },
           {
             "id": "img_069",
-            "title": "Stitch Wallpaper 69",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/y1gsR4c2-fond-decran-stitch-52.webp",
+            "title": "Cute Blue Alien Wallpaper 69",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/y1gsR4c2-fond-decran-Cute Blue Alien-52.webp",
             "premium_only": false
           },
           {
             "id": "img_070",
-            "title": "Stitch Wallpaper 70",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/IFyenKYd-fond-decran-stitch-51.webp",
+            "title": "Cute Blue Alien Wallpaper 70",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/IFyenKYd-fond-decran-Cute Blue Alien-51.webp",
             "premium_only": false
           },
           {
             "id": "img_071",
-            "title": "Stitch Wallpaper 71",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/UOw6rL2O-fond-decran-stitch-27.webp",
+            "title": "Cute Blue Alien Wallpaper 71",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/UOw6rL2O-fond-decran-Cute Blue Alien-27.webp",
             "premium_only": false
           },
           {
             "id": "img_072",
-            "title": "Stitch Wallpaper 72",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/W2NaTsSc-fond-decran-stitch-20.webp",
+            "title": "Cute Blue Alien Wallpaper 72",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/W2NaTsSc-fond-decran-Cute Blue Alien-20.webp",
             "premium_only": false
           },
           {
             "id": "img_073",
-            "title": "Stitch Wallpaper 73",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/i9PalOC7-fond-decran-stitch-19.webp",
+            "title": "Cute Blue Alien Wallpaper 73",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/i9PalOC7-fond-decran-Cute Blue Alien-19.webp",
             "premium_only": false
           },
           {
             "id": "img_074",
-            "title": "Stitch Wallpaper 74",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/hconpen8-fond-decran-stitch-11.webp",
+            "title": "Cute Blue Alien Wallpaper 74",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/hconpen8-fond-decran-Cute Blue Alien-11.webp",
             "premium_only": false
           },
           {
             "id": "img_075",
-            "title": "Stitch Wallpaper 75",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/ETB5HvSs-fond-decran-stitch-10.webp",
+            "title": "Cute Blue Alien Wallpaper 75",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/ETB5HvSs-fond-decran-Cute Blue Alien-10.webp",
             "premium_only": false
           },
           {
             "id": "img_076",
-            "title": "Stitch Wallpaper 76",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/WsNm0zKP-fond-decran-stitch-8.webp",
+            "title": "Cute Blue Alien Wallpaper 76",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/WsNm0zKP-fond-decran-Cute Blue Alien-8.webp",
             "premium_only": false
           },
           {
             "id": "img_077",
-            "title": "Stitch Wallpaper 77",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/C4k05W3V-fond-decran-stitch-7.webp",
+            "title": "Cute Blue Alien Wallpaper 77",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/C4k05W3V-fond-decran-Cute Blue Alien-7.webp",
             "premium_only": false
           },
           {
             "id": "img_078",
-            "title": "Stitch Wallpaper 78",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/BoT1rSmH-fond-decran-stitch-6.webp",
+            "title": "Cute Blue Alien Wallpaper 78",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/BoT1rSmH-fond-decran-Cute Blue Alien-6.webp",
             "premium_only": false
           },
           {
             "id": "img_079",
-            "title": "Stitch Wallpaper 79",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/8DntF4UG-fond-decran-stitch-5.webp",
+            "title": "Cute Blue Alien Wallpaper 79",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/8DntF4UG-fond-decran-Cute Blue Alien-5.webp",
             "premium_only": false
           },
           {
             "id": "img_080",
-            "title": "Stitch Wallpaper 80",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/1hbuhhdF-fond-decran-stitch-4.webp",
+            "title": "Cute Blue Alien Wallpaper 80",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/1hbuhhdF-fond-decran-Cute Blue Alien-4.webp",
             "premium_only": false
           },
           {
             "id": "img_081",
-            "title": "Stitch Wallpaper 81",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/vExpuk9C-fond-decran-stitch-3.webp",
+            "title": "Cute Blue Alien Wallpaper 81",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/vExpuk9C-fond-decran-Cute Blue Alien-3.webp",
             "premium_only": false
           },
           {
             "id": "img_082",
-            "title": "Stitch Wallpaper 82",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/0C4uOoNp-fond-decran-stitch-2.webp",
+            "title": "Cute Blue Alien Wallpaper 82",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/0C4uOoNp-fond-decran-Cute Blue Alien-2.webp",
             "premium_only": false
           },
           {
             "id": "img_083",
-            "title": "Stitch Wallpaper 83",
-            "category": "Stitch Wallpapers",
-            "image_url": "https://cdn.fondecranvip.com/2025/01/h6aEjhBE-fond-decran-stitch-1.webp",
+            "title": "Cute Blue Alien Wallpaper 83",
+            "category": "Cute Blue Alien Wallpapers",
+            "image_url": "https://cdn.fondecranvip.com/2025/01/h6aEjhBE-fond-decran-Cute Blue Alien-1.webp",
             "premium_only": false
           }
         ]
@@ -2173,13 +2173,13 @@
   },
   "categories": [
     {
-      "name": "Stitch",
+      "name": "Cute Blue Alien",
       "type": "video",
       "videos": [
         {
-          "id": "stitch_001",
-          "title": "Stitch Live 1",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_001",
+          "title": "Cute Blue Alien Live 1",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/06/17/8siB7jsKiNLiKokGRoDQ23aH6jbnvrO1OCcpTmDp.mp4",
           "loop": true,
@@ -2187,9 +2187,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_002",
-          "title": "Stitch Live 2",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_002",
+          "title": "Cute Blue Alien Live 2",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/06/29/m4j4AqXlZPXQBoCvPe3Rcrf44E2F5oNsNpbZQWeY.mp4",
           "loop": true,
@@ -2197,9 +2197,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_005",
-          "title": "Stitch Live 5",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_005",
+          "title": "Cute Blue Alien Live 5",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/12/14/01KFD3STG7VDC1EB88Z4VA43WN.mp4",
           "loop": true,
@@ -2207,9 +2207,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_006",
-          "title": "Stitch Live 6",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_006",
+          "title": "Cute Blue Alien Live 6",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/03/24/ulxLhBgP6LOuyl2XNnjVQmr3Ek6OP6TCHc4UeWL1.mp4",
           "loop": true,
@@ -2217,9 +2217,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_007",
-          "title": "Stitch Live 7",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_007",
+          "title": "Cute Blue Alien Live 7",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/12/09/gG3jWFwcq5z7V8FowsqAIRf0obhlbl9CblbKq8oC.mp4",
           "loop": true,
@@ -2227,9 +2227,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_008",
-          "title": "Stitch Live 8",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_008",
+          "title": "Cute Blue Alien Live 8",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/07/18/9uUm6yrfUqn9yjywkaMWXFa9168NyAl9e1G7wUpd.mp4",
           "loop": true,
@@ -2237,9 +2237,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_009",
-          "title": "Stitch Live 9",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_009",
+          "title": "Cute Blue Alien Live 9",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/10/12/aB3lRiaOKrVVRPlJkTSGycG5QaH9VCYclradom3l.mp4",
           "loop": true,
@@ -2247,9 +2247,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_010",
-          "title": "Stitch Live 10",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_010",
+          "title": "Cute Blue Alien Live 10",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/03/24/foqIxLl5j9guQzwSxrYxavQ8Lkz2ieK4foObeqdL.mp4",
           "loop": true,
@@ -2257,9 +2257,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_011",
-          "title": "Stitch Live 11",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_011",
+          "title": "Cute Blue Alien Live 11",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/10/02/QAwTfZyQTPPOOAtd2V1eYOTs4NZBnI9UTXQDxBUI.mp4",
           "loop": true,
@@ -2267,9 +2267,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_012",
-          "title": "Stitch Live 12",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_012",
+          "title": "Cute Blue Alien Live 12",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/10/02/Adm9sld6jNN5BdVElTkHnq4FQ3BHFG8l7EXqgasj.mp4",
           "loop": true,
@@ -2277,9 +2277,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_013",
-          "title": "Stitch Live 13",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_013",
+          "title": "Cute Blue Alien Live 13",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/09/12/6duZ0c6vYxSXJ4tYDvqfHz79E3ia2BzVxnB8vfr4.mp4",
           "loop": true,
@@ -2287,9 +2287,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_014",
-          "title": "Stitch Live 14",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_014",
+          "title": "Cute Blue Alien Live 14",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/10/14/01K7HKDJB03RCS6QNZ4292CXH0.mp4",
           "loop": true,
@@ -2297,9 +2297,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_015",
-          "title": "Stitch Live 15",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_015",
+          "title": "Cute Blue Alien Live 15",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/12/16/01KCKT891PDFANS10XDCGA17JD.mp4",
           "loop": true,
@@ -2307,9 +2307,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_016",
-          "title": "Stitch Live 16",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_016",
+          "title": "Cute Blue Alien Live 16",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2025/10/25/4lvlm8pzouB7kUErdxW4WgK0pMLVnUJwM1cj9bcw.mp4",
           "loop": true,
@@ -2317,9 +2317,9 @@
           "premium_only": false
         },
         {
-          "id": "stitch_017",
-          "title": "Stitch Live 17",
-          "category": "Stitch",
+          "id": "Cute Blue Alien_017",
+          "title": "Cute Blue Alien Live 17",
+          "category": "Cute Blue Alien",
           "thumbnail": "",
           "video_url": "https://backend.wallpics.app/live/2026/01/25/01KFTPDCKZ1ZAVJP7TC39T3562.mp4",
           "loop": true,
