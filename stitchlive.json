@@ -602,21 +602,6 @@
       ]
     },
     {
-      "name": "dsp-media.eskimi.com",
-      "videos": [
-        {
-          "id": "vid_0007",
-          "title": "vid",
-          "category": "dsp-media.eskimi.com",
-          "thumbnail": "https://4kwallpapers.com/images/walls/thumbs/25100.jpg",
-          "video_url": "https://dsp-media.eskimi.com/upload/rm/upload/69941eb162151/Knorr_Beef_300x250/assets/vid.mp4",
-          "loop": true,
-          "downloadable": true,
-          "premium_only": false
-        }
-      ]
-    },
-    {
       "name": "Fantasy",
       "videos": [
         {
@@ -931,8 +916,8 @@
         },
         {
           "id": "vid_0038",
-          "title": "Spooky Girl Halloween",
-          "category": "Halloween",
+          "title": "Spooky Girl Hallowiin",
+          "category": "Hallowin",
           "thumbnail": "https://4kwallpapers.com/images/walls/thumbs/25100.jpg",
           "video_url": "https://mylivewallpapers.com/wp-content/uploads/Halloween/PREVIEW-Spooky-Girl-Halloween.mp4",
           "loop": true,
@@ -2435,12 +2420,12 @@
         "type": "video"
       },
       {
-        "name": "Christmas",
+        "name": "Christ",
         "videos": [
           {
             "id": "vid_0021",
             "title": "Anime Girl Santa Outfit",
-            "category": "Christmas",
+            "category": "Christ",
             "thumbnail": "",
             "video_url": "https://mylivewallpapers.com/wp-content/uploads/Christmas/PREVIEW-Anime-Girl-Santa-Outfit.mp4",
             "loop": true,
