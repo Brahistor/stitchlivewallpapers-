@@ -1,7 +1,7 @@
 {
   "general": {
     "remote_config_version": 2,
-    "app_name": "Cute Blue Alien Live Wallpapers 4K",
+    "app_name": "AniGlow: Live Wallpapers &amp; AI Filter",
     "theme_color": "#F518A9",
     "buttons": {
       "rate_url": "https://www.amazon.com/dp/B0GS722GV8",
@@ -13,7 +13,7 @@
     },
     "iap": {
       "enabled": true,
-      "lifetimeSku": "com.stitchohana.wallpapers.remove_ads"
+      "lifetimeSku": "com.liveanime.wallpapers.remove_ads"
     },
     "ads": {
       "showAds": true,
