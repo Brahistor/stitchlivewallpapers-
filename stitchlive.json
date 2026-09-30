@@ -1,6 +1,6 @@
 {
   "general": {
-    "remote_config_version": 4,
+    "remote_config_version": 3,
     "app_name": "AniGlow: Live Wallpapers &amp; AI Filter",
     "theme_color": "#F518A9",
     "buttons": {
