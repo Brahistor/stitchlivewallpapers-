@@ -11,10 +11,14 @@
       "show_remove_ads_button": true,
       "show_premium_button": true
     },
-    "iap": {
-      "enabled": true,
-      "lifetimeSku": "com.liveanime.wallpapers.remove_ads"
-    },
+   "iap": {
+  "enabled": true,"lifetimeSku": "com.liveanime.wallpapers.remove_ads",
+  "subscriptionsEnabled": true,
+  "sub1mSku": "com.liveanime.wallpapers.sub1m",
+  "sub3mSku": "com.liveanime.wallpapers.sub3m",
+  "sub6mSku": "com.liveanime.wallpapers.sub6m",
+  "sub12mSku": "com.liveanime.wallpapers.sub12m"
+},
     "ads": {
       "showAds": true,
       "clicksBeforeInterstitial": 3,
