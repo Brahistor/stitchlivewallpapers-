@@ -1,6 +1,6 @@
 {
   "general": {
-    "remote_config_version": 3,
+    "remote_config_version": 4,
     "app_name": "AniGlow: Live Wallpapers &amp; AI Filter",
     "theme_color": "#F518A9",
     "buttons": {
@@ -16,7 +16,7 @@
       "lifetimeSku": "com.liveanime.wallpapers.remove_ads"
     },
     "ads": {
-      "showAds": false,
+      "showAds": true,
       "clicksBeforeInterstitial": 3,
       "autoShowIntervalSeconds": 45,
       "banner": {
