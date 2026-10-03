@@ -21,7 +21,7 @@
       "sub12mSku": "com.liveanime.wallpapers.sub12m"
     },
     "ads": {
-      "showAds": true,
+      "showAds": false,
       "clicksBeforeInterstitial": 3,
       "autoShowIntervalSeconds": 45,
       "banner": {
